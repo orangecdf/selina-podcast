@@ -8,5 +8,5 @@ RSS地址：https://orangecdf.github.io/selina-podcast/feed.xml
 
 ## 说明
 
-- 音频由 B 站视频提取（m4a，响度 -12.2 LUFS）
+- 音频由 B 站视频提取
 - 付费/充电专属视频自动跳过
