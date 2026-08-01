@@ -5,7 +5,7 @@
     <link>https://github.com/orangecdf/selina-podcast</link>
     <description>Selina英语的英文学习播客</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 31 Jul 2026 20:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:17:57 +0000</lastBuildDate>
     <atom:link href="https://orangecdf.github.io/selina-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Selina英语</itunes:author>
     <itunes:category text="Education"/>
@@ -17,153 +17,303 @@
       <link>https://github.com/orangecdf/selina-podcast</link>
     </image>
     <item>
-      <title>【全英】没有工作经验如何拿下第一份offer？2个成功案例帮你打开思路</title>
-      <description>【全英】没有工作经验如何拿下第一份offer？2个成功案例帮你打开思路</description>
-      <link>https://www.bilibili.com/video/BV18p421m71B</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep001.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 14:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep001.m4a" type="audio/mp4" length="8021508"/>
-      <itunes:duration>00:08:12</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】读英文原版书切忌一遇到生词就去查</title>
-      <description>【全英】读英文原版书切忌一遇到生词就去查</description>
-      <link>https://www.bilibili.com/video/BV19M4m1978A</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep002.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 15:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep002.m4a" type="audio/mp4" length="2372638"/>
-      <itunes:duration>00:02:26</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】雅思托福偏科，听力阅读强，口语写作差怎么补救？</title>
-      <description>【全英】雅思托福偏科，听力阅读强，口语写作差怎么补救？</description>
-      <link>https://www.bilibili.com/video/BV1mD42157yh</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep003.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 16:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep003.m4a" type="audio/mp4" length="7008941"/>
-      <itunes:duration>00:07:03</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】美国律师姐姐分享：跟读模仿50遍，你的口语会发生什么变化？</title>
-      <description>【全英】美国律师姐姐分享：跟读模仿50遍，你的口语会发生什么变化？</description>
-      <link>https://www.bilibili.com/video/BV18A4m1c7Pf</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep004.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 17:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep004.m4a" type="audio/mp4" length="8464724"/>
-      <itunes:duration>00:08:40</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】没钱+不会外语，我如何在2年内免费游学欧美4国</title>
-      <description>【全英】没钱+不会外语，我如何在2年内免费游学欧美4国</description>
-      <link>https://www.bilibili.com/video/BV1QZ421e7ih</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep005.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 18:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep005.m4a" type="audio/mp4" length="14079595"/>
-      <itunes:duration>00:14:32</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】留学第三年，我在美国大学拿下全班写作最高分</title>
-      <description>【全英】留学第三年，我在美国大学拿下全班写作最高分</description>
-      <link>https://www.bilibili.com/video/BV1ST421m7dy</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep006.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 19:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep006.m4a" type="audio/mp4" length="5576558"/>
-      <itunes:duration>00:05:42</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】选英语学习资源的时候，务必看准这几点</title>
-      <description>【全英】选英语学习资源的时候，务必看准这几点</description>
-      <link>https://www.bilibili.com/video/BV1rF4m1P7Ly</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep007.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 20:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep007.m4a" type="audio/mp4" length="9719469"/>
-      <itunes:duration>00:09:59</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】用“书籍金字塔”原则，重新审视你的阅读清单</title>
-      <description>【全英】用“书籍金字塔”原则，重新审视你的阅读清单</description>
-      <link>https://www.bilibili.com/video/BV1jr5W6YEhD</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep008.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 21:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep008.m4a" type="audio/mp4" length="3024500"/>
-      <itunes:duration>00:03:06</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】睡眠质量差？世界顶级睡眠科学家教你12招营造完美睡眠</title>
-      <description>【全英】睡眠质量差？世界顶级睡眠科学家教你12招营造完美睡眠</description>
-      <link>https://www.bilibili.com/video/BV1VZVW6ZEdg</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep009.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 22:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep009.m4a" type="audio/mp4" length="4319788"/>
-      <itunes:duration>00:04:29</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】瞳孔越大，魅力值越高？6个颠覆你认知的脑科学知识</title>
-      <description>【全英】瞳孔越大，魅力值越高？6个颠覆你认知的脑科学知识</description>
-      <link>https://www.bilibili.com/video/BV1C2LQ6oE5S</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep010.m4a</guid>
-      <pubDate>Fri, 31 Jul 2026 23:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep010.m4a" type="audio/mp4" length="6669215"/>
-      <itunes:duration>00:06:51</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】我珍藏多年的英文各领域书单之：数学</title>
-      <description>【全英】我珍藏多年的英文各领域书单之：数学</description>
-      <link>https://www.bilibili.com/video/BV1cTjc6LEM2</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep011.m4a</guid>
-      <pubDate>Sat, 01 Aug 2026 00:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep011.m4a" type="audio/mp4" length="7521448"/>
-      <itunes:duration>00:10:07</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>全英 |《小猪小象》绘本带读：我超爱我的新玩具！</title>
-      <description>全英 |《小猪小象》绘本带读：我超爱我的新玩具！</description>
-      <link>https://www.bilibili.com/video/BV1zdjq67E3A</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep012.m4a</guid>
-      <pubDate>Sat, 01 Aug 2026 01:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep012.m4a" type="audio/mp4" length="5223039"/>
-      <itunes:duration>00:05:39</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>【全英】我珍藏多年的英文各领域书单之：计算机科学</title>
-      <description>【全英】我珍藏多年的英文各领域书单之：计算机科学</description>
-      <link>https://www.bilibili.com/video/BV1vf7T6oEmV</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep013.m4a</guid>
-      <pubDate>Sat, 01 Aug 2026 02:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep013.m4a" type="audio/mp4" length="4107446"/>
-      <itunes:duration>00:04:12</itunes:duration>
+      <title>【全英】我珍藏多年的英文各领域书单之：哲学</title>
+      <description>【全英】我珍藏多年的英文各领域书单之：哲学</description>
+      <link>https://www.bilibili.com/video/BV19p3i6pEu6</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep030.m4a</guid>
+      <pubDate>Tue, 28 Jul 2026 14:09:36 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep030.m4a" type="audio/mp4" length="4028802"/>
+      <itunes:duration>00:04:09</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
       <title>全英|各领域通识书单之：心理学——读懂MBTI的底层逻辑</title>
       <description>全英|各领域通识书单之：心理学——读懂MBTI的底层逻辑</description>
       <link>https://www.bilibili.com/video/BV19HTC6aEzM</link>
-      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep014.m4a</guid>
-      <pubDate>Sat, 01 Aug 2026 03:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep014.m4a" type="audio/mp4" length="4932716"/>
-      <itunes:duration>00:05:03</itunes:duration>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep029.m4a</guid>
+      <pubDate>Sun, 05 Jul 2026 17:35:31 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep029.m4a" type="audio/mp4" length="4932716"/>
+      <itunes:duration>00:05:04</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>【全英】我珍藏多年的英文各领域书单之：哲学</title>
-      <description>【全英】我珍藏多年的英文各领域书单之：哲学</description>
-      <link>https://www.bilibili.com/video/BV19p3i6pEu6</link>
+      <title>【全英】我珍藏多年的英文各领域书单之：计算机科学</title>
+      <description>【全英】我珍藏多年的英文各领域书单之：计算机科学</description>
+      <link>https://www.bilibili.com/video/BV1vf7T6oEmV</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep028.m4a</guid>
+      <pubDate>Mon, 22 Jun 2026 22:32:17 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep028.m4a" type="audio/mp4" length="4107446"/>
+      <itunes:duration>00:04:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>全英 |《小猪小象》绘本带读：我超爱我的新玩具！</title>
+      <description>全英 |《小猪小象》绘本带读：我超爱我的新玩具！</description>
+      <link>https://www.bilibili.com/video/BV1zdjq67E3A</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep027.m4a</guid>
+      <pubDate>Fri, 19 Jun 2026 20:21:44 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep027.m4a" type="audio/mp4" length="5223039"/>
+      <itunes:duration>00:05:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】我珍藏多年的英文各领域书单之：数学</title>
+      <description>【全英】我珍藏多年的英文各领域书单之：数学</description>
+      <link>https://www.bilibili.com/video/BV1cTjc6LEM2</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep026.m4a</guid>
+      <pubDate>Thu, 18 Jun 2026 17:45:33 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep026.m4a" type="audio/mp4" length="7521448"/>
+      <itunes:duration>00:10:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】瞳孔越大，魅力值越高？6个颠覆你认知的脑科学知识</title>
+      <description>【全英】瞳孔越大，魅力值越高？6个颠覆你认知的脑科学知识</description>
+      <link>https://www.bilibili.com/video/BV1C2LQ6oE5S</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep025.m4a</guid>
+      <pubDate>Wed, 17 Jun 2026 18:33:58 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep025.m4a" type="audio/mp4" length="6669215"/>
+      <itunes:duration>00:06:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】睡眠质量差？世界顶级睡眠科学家教你12招营造完美睡眠</title>
+      <description>【全英】睡眠质量差？世界顶级睡眠科学家教你12招营造完美睡眠</description>
+      <link>https://www.bilibili.com/video/BV1VZVW6ZEdg</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep024.m4a</guid>
+      <pubDate>Thu, 28 May 2026 23:09:44 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep024.m4a" type="audio/mp4" length="4319788"/>
+      <itunes:duration>00:04:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】用“书籍金字塔”原则，重新审视你的阅读清单</title>
+      <description>【全英】用“书籍金字塔”原则，重新审视你的阅读清单</description>
+      <link>https://www.bilibili.com/video/BV1jr5W6YEhD</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep023.m4a</guid>
+      <pubDate>Mon, 11 May 2026 14:19:05 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep023.m4a" type="audio/mp4" length="3024500"/>
+      <itunes:duration>00:03:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】选英语学习资源的时候，务必看准这几点</title>
+      <description>【全英】选英语学习资源的时候，务必看准这几点</description>
+      <link>https://www.bilibili.com/video/BV1rF4m1P7Ly</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep022.m4a</guid>
+      <pubDate>Sat, 20 Apr 2024 07:07:35 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep022.m4a" type="audio/mp4" length="9719469"/>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】留学第三年，我在美国大学拿下全班写作最高分</title>
+      <description>【全英】留学第三年，我在美国大学拿下全班写作最高分</description>
+      <link>https://www.bilibili.com/video/BV1ST421m7dy</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep021.m4a</guid>
+      <pubDate>Sun, 14 Apr 2024 13:51:05 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep021.m4a" type="audio/mp4" length="5576558"/>
+      <itunes:duration>00:05:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】没钱+不会外语，我如何在2年内免费游学欧美4国</title>
+      <description>【全英】没钱+不会外语，我如何在2年内免费游学欧美4国</description>
+      <link>https://www.bilibili.com/video/BV1QZ421e7ih</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep020.m4a</guid>
+      <pubDate>Wed, 10 Apr 2024 14:01:46 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep020.m4a" type="audio/mp4" length="14079595"/>
+      <itunes:duration>00:14:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】美国律师姐姐分享：跟读模仿50遍，你的口语会发生什么变化？</title>
+      <description>【全英】美国律师姐姐分享：跟读模仿50遍，你的口语会发生什么变化？</description>
+      <link>https://www.bilibili.com/video/BV18A4m1c7Pf</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep019.m4a</guid>
+      <pubDate>Sat, 06 Apr 2024 12:28:44 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep019.m4a" type="audio/mp4" length="8464724"/>
+      <itunes:duration>00:08:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】雅思托福偏科，听力阅读强，口语写作差怎么补救？</title>
+      <description>【全英】雅思托福偏科，听力阅读强，口语写作差怎么补救？</description>
+      <link>https://www.bilibili.com/video/BV1mD42157yh</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep018.m4a</guid>
+      <pubDate>Thu, 04 Apr 2024 05:14:15 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep018.m4a" type="audio/mp4" length="7008941"/>
+      <itunes:duration>00:07:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】读英文原版书切忌一遇到生词就去查</title>
+      <description>【全英】读英文原版书切忌一遇到生词就去查</description>
+      <link>https://www.bilibili.com/video/BV19M4m1978A</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep017.m4a</guid>
+      <pubDate>Thu, 28 Mar 2024 12:39:10 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep017.m4a" type="audio/mp4" length="2372638"/>
+      <itunes:duration>00:02:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【全英】没有工作经验如何拿下第一份offer？2个成功案例帮你打开思路</title>
+      <description>【全英】没有工作经验如何拿下第一份offer？2个成功案例帮你打开思路</description>
+      <link>https://www.bilibili.com/video/BV18p421m71B</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep016.m4a</guid>
+      <pubDate>Wed, 27 Mar 2024 12:29:55 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep016.m4a" type="audio/mp4" length="8021508"/>
+      <itunes:duration>00:08:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>学英语、读书、做视频，我保持动力的秘诀</title>
+      <description>学英语、读书、做视频，我保持动力的秘诀</description>
+      <link>https://www.bilibili.com/video/BV1Gm411d76v</link>
       <guid>https://orangecdf.github.io/selina-podcast/episodes/ep015.m4a</guid>
-      <pubDate>Sat, 01 Aug 2026 04:10:03 +0800</pubDate>
-      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep015.m4a" type="audio/mp4" length="4028802"/>
-      <itunes:duration>00:04:08</itunes:duration>
+      <pubDate>Sun, 24 Mar 2024 12:25:06 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep015.m4a" type="audio/mp4" length="3405685"/>
+      <itunes:duration>00:03:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>如何刻意练习、提升学习效率和状态</title>
+      <description>如何刻意练习、提升学习效率和状态</description>
+      <link>https://www.bilibili.com/video/BV17Z421t7Hu</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep014.m4a</guid>
+      <pubDate>Fri, 22 Mar 2024 06:26:20 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep014.m4a" type="audio/mp4" length="1742353"/>
+      <itunes:duration>00:12:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>10k粉丝读评：英语口语怎么练?</title>
+      <description>10k粉丝读评：英语口语怎么练?</description>
+      <link>https://www.bilibili.com/video/BV1Nm411R7z2</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep013.m4a</guid>
+      <pubDate>Tue, 19 Mar 2024 02:09:02 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep013.m4a" type="audio/mp4" length="3836222"/>
+      <itunes:duration>00:03:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>有了ChatGPT，还有学习英语的必要吗？【全英双字】</title>
+      <description>有了ChatGPT，还有学习英语的必要吗？【全英双字】</description>
+      <link>https://www.bilibili.com/video/BV1y1421D77u</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep012.m4a</guid>
+      <pubDate>Sat, 16 Mar 2024 06:13:40 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep012.m4a" type="audio/mp4" length="5627720"/>
+      <itunes:duration>00:05:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>10k粉丝读评：我的MBTI是？【全英双字】</title>
+      <description>10k粉丝读评：我的MBTI是？【全英双字】</description>
+      <link>https://www.bilibili.com/video/BV1Ki421R78k</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep011.m4a</guid>
+      <pubDate>Fri, 15 Mar 2024 02:40:26 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep011.m4a" type="audio/mp4" length="5994132"/>
+      <itunes:duration>00:06:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>一边备考，一边想恋爱，我怎么做到学习时不分心？</title>
+      <description>一边备考，一边想恋爱，我怎么做到学习时不分心？</description>
+      <link>https://www.bilibili.com/video/BV17Z421b72r</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep010.m4a</guid>
+      <pubDate>Thu, 14 Mar 2024 12:36:38 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep010.m4a" type="audio/mp4" length="8453426"/>
+      <itunes:duration>00:08:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>做事总拖到最后一秒？这三招让你无痛自律，治好拖延症</title>
+      <description>做事总拖到最后一秒？这三招让你无痛自律，治好拖延症</description>
+      <link>https://www.bilibili.com/video/BV1GF4m157H9</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep009.m4a</guid>
+      <pubDate>Sat, 09 Mar 2024 06:22:30 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep009.m4a" type="audio/mp4" length="5199893"/>
+      <itunes:duration>00:05:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>【纯干货】手把手教你做学习计划：为什么学，学什么，怎么学？</title>
+      <description>【纯干货】手把手教你做学习计划：为什么学，学什么，怎么学？</description>
+      <link>https://www.bilibili.com/video/BV1GZ421a7Nx</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep008.m4a</guid>
+      <pubDate>Wed, 06 Mar 2024 05:01:46 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep008.m4a" type="audio/mp4" length="12555876"/>
+      <itunes:duration>00:12:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>1年完成麻省理工4年的学业，他用的是每个人都能掌握的“超级学习法”！</title>
+      <description>1年完成麻省理工4年的学业，他用的是每个人都能掌握的“超级学习法”！</description>
+      <link>https://www.bilibili.com/video/BV1im411D7A2</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep007.m4a</guid>
+      <pubDate>Sun, 11 Feb 2024 15:35:59 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep007.m4a" type="audio/mp4" length="14126321"/>
+      <itunes:duration>00:14:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>维持好习惯的终极要义：对自己的正向身份深信不疑（《原子习惯》最终篇！）</title>
+      <description>维持好习惯的终极要义：对自己的正向身份深信不疑（《原子习惯》最终篇！）</description>
+      <link>https://www.bilibili.com/video/BV1TA4m1j7am</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep006.m4a</guid>
+      <pubDate>Sat, 03 Feb 2024 11:27:52 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep006.m4a" type="audio/mp4" length="6800610"/>
+      <itunes:duration>00:07:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>初入法学院期末垫底，我如何用一年实现逆袭</title>
+      <description>初入法学院期末垫底，我如何用一年实现逆袭</description>
+      <link>https://www.bilibili.com/video/BV1G94y1M7X5</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep005.m4a</guid>
+      <pubDate>Sun, 14 Jan 2024 14:15:58 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep005.m4a" type="audio/mp4" length="6876355"/>
+      <itunes:duration>00:07:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>保持动力的小技巧：设定适合自己难度的目标</title>
+      <description>保持动力的小技巧：设定适合自己难度的目标</description>
+      <link>https://www.bilibili.com/video/BV1qV41197YQ</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep004.m4a</guid>
+      <pubDate>Wed, 10 Jan 2024 14:06:54 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep004.m4a" type="audio/mp4" length="6033115"/>
+      <itunes:duration>00:06:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>我保持动力的两大法宝：金发姑娘法则和番茄钟</title>
+      <description>我保持动力的两大法宝：金发姑娘法则和番茄钟</description>
+      <link>https://www.bilibili.com/video/BV11e411i77P</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep003.m4a</guid>
+      <pubDate>Sun, 07 Jan 2024 14:44:21 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep003.m4a" type="audio/mp4" length="7344397"/>
+      <itunes:duration>00:07:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>适合磨耳朵的英文绘本（建议循环播放、培养语感）《苏斯博士：秃尾巴的小鸟姑娘》</title>
+      <description>适合磨耳朵的英文绘本（建议循环播放、培养语感）《苏斯博士：秃尾巴的小鸟姑娘》</description>
+      <link>https://www.bilibili.com/video/BV1jK4y167dK</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep002.m4a</guid>
+      <pubDate>Sat, 06 Jan 2024 08:26:22 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep002.m4a" type="audio/mp4" length="2116728"/>
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>小学两年就学完了大学英语，为什么留学7年间我却难有特别大的提高？</title>
+      <description>小学两年就学完了大学英语，为什么留学7年间我却难有特别大的提高？</description>
+      <link>https://www.bilibili.com/video/BV1PK4y167xX</link>
+      <guid>https://orangecdf.github.io/selina-podcast/episodes/ep001.m4a</guid>
+      <pubDate>Fri, 05 Jan 2024 06:00:00 +0800</pubDate>
+      <enclosure url="https://orangecdf.github.io/selina-podcast/episodes/ep001.m4a" type="audio/mp4" length="8123684"/>
+      <itunes:duration>00:08:27</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
