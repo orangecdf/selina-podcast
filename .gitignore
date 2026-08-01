@@ -1,0 +1,5 @@
+cookies.txt
+.gh_token
+*.py
+*.json
+audio/*.m4a
