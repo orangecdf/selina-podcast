@@ -15,6 +15,7 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import time
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
@@ -41,12 +42,35 @@ def get_vlist():
     return bw.space_videos(MID, cookie, 50, 1)
 
 
-def download_to(bvid: str, dest: Path, attempts=3) -> bool:
+def prepare_yt_dlp_cookies() -> tuple[Path, bool]:
+    """Make the existing Netscape rows acceptable to yt-dlp.
+
+    The exported file has valid seven-column cookie rows but lacks the
+    Netscape header, which yt-dlp requires.  Keep the source secret unchanged
+    and create a temporary normalized copy instead.
+    """
+    text = COOKIES.read_text(encoding="utf-8")
+    if text.lstrip().startswith("# Netscape HTTP Cookie File"):
+        return COOKIES, False
+    fd, name = tempfile.mkstemp(prefix="bili-cookies-", suffix=".txt")
+    path = Path(name)
+    try:
+        with open(fd, "w", encoding="utf-8") as f:
+            f.write("# Netscape HTTP Cookie File\n")
+            f.write(text)
+    except Exception:
+        path.unlink(missing_ok=True)
+        raise
+    path.chmod(0o600)
+    return path, True
+
+
+def download_to(bvid: str, dest: Path, cookie_file: Path, attempts=3) -> bool:
     for i in range(attempts):
         r = subprocess.run(
             ["yt-dlp", "--no-playlist", "-f", "ba/b", "-x", "--audio-format", "m4a",
              "--audio-quality", "0", "--no-warnings", "--retries", "5",
-             "--cookies", str(COOKIES), "-o", str(dest),
+             "--cookies", str(cookie_file), "-o", str(dest),
              f"https://www.bilibili.com/video/{bvid}"],
             capture_output=True, text=True, timeout=3600)
         if dest.exists() and dest.stat().st_size > 100_000:
@@ -176,13 +200,18 @@ def main():
     # 1. 下载新视频音频 + 归一化
     AUDIO_DIR.mkdir(exist_ok=True)
     failed = []
-    for v in brand_new:
-        dest = AUDIO_DIR / f"{v['bvid']}.m4a"
-        if not download_to(v["bvid"], dest):
-            failed.append(v["title"])
-            continue
-        if not normalize(dest):
-            failed.append(v["title"])
+    cookie_file, temporary_cookie = prepare_yt_dlp_cookies()
+    try:
+        for v in brand_new:
+            dest = AUDIO_DIR / f"{v['bvid']}.m4a"
+            if not download_to(v["bvid"], dest, cookie_file):
+                failed.append(v["title"])
+                continue
+            if not normalize(dest):
+                failed.append(v["title"])
+    finally:
+        if temporary_cookie:
+            cookie_file.unlink(missing_ok=True)
     if failed:
         print(f"❌ 播客同步失败，下载/处理失败 {len(failed)} 个: {', '.join(failed[:5])}")
         print("（可能是B站cookies过期，需重新导出）")
